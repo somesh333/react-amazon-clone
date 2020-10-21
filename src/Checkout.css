@@ -1,3 +1,8 @@
+/* .checkout__left > img {
+  height: 50px;
+  width: 1000px;
+} */
+
 .checkout {
   display: flex;
   padding: 20px;
@@ -13,5 +18,5 @@
 .checkout__title {
   margin-right: 10px;
   padding: 10px;
-  border-bottom: 1px solid lightgrey;
+  border-bottom: 1px solid lightgray;
 }
